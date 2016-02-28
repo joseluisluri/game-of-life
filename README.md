@@ -1,7 +1,7 @@
-# [javascript-gol](https://github.com/joseluisluri/javascript-gol/)
+# [game-of-life](https://github.com/joseluisluri/game-of-life/)
 Conway's Game of Life - Javascript/Canvas Implementation
 
-**Live Demo:** [https://joseluisluri.github.io/javascript-gol](https://joseluisluri.github.io/javascript-gol)
+**Live Demo:** [https://joseluisluri.github.io/game-of-life](https://joseluisluri.github.io/javascript-gol)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ José Luis Luri
 
 ## Screenshots
 
-![Screenshot](http://joseluisluri.github.io/javascript-gol/ss/gol.png)
+![Screenshot](http://joseluisluri.github.io/game-of-life/ss/gol.png)
 
 ## Browser Support
 

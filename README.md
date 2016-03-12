@@ -1,7 +1,7 @@
 # [game-of-life](https://github.com/joseluisluri/game-of-life/)
 Conway's Game of Life - Javascript/Canvas Implementation
 
-**Live Demo:** [https://joseluisluri.github.io/game-of-life](https://joseluisluri.github.io/javascript-gol)
+**Live Demo:** [https://joseluisluri.github.io/game-of-life](http://joseluisluri.github.io/game-of-life/)
 
 ## Table of Contents
 
